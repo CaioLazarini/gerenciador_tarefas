@@ -55,6 +55,7 @@ class GerenciadorDeTarefas:
 
             elif escolha == "4":
                 print("Saindo...")
+                print("----------")
                 break
 
             else:
